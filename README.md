@@ -18,7 +18,7 @@ To download datasets, you can run `download.sh` bash script or manually from `zn
 
 `bash download.sh 2016 2017 2018 2019 2020 2021`
 
-## 🗺️ Visual Results
+## Visual Results
 
 Below are the key spatial visualizations that illustrate our findings. The maps utilize custom diverging and sequential colormaps to highlight regional disparities.
 
@@ -28,7 +28,7 @@ These maps show the score delta (change in average score) between the first and 
 
 | Mathematics Score Delta | English Score Delta |
 | :---: | :---: |
-| ![Mathematics](screenshots/imag2.png) | ![English](screenshots/image3.png) |
+| ![Mathematics](screenshots/image2.png) | ![English](screenshots/image3.png) |
 | *Mathematics shows a universal, nationwide decline (all red).* | *English remains relatively uniform and stable across regions.* |
 
 | History Score Delta | Ukrainian Language Score Delta |
@@ -51,4 +51,4 @@ These maps isolate the latest year to examine the internal distribution of score
 | :---: |
 
 | ![English STD](screenshots/image5.png) | ![English Elite](screenshots/image8.png) |
-| *Further confirming that while baseline outcomes fluctuate, the highest concentration of top performers remains geographically clustered.* |
+| *English shows a tighter overall variance compared to Math, indicating more consistent baseline outcomes.* | *Despite a tighter variance, the highest concentration of top performers remains geographically clustered.* |
