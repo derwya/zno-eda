@@ -47,8 +47,7 @@ These maps isolate the latest year to examine the internal distribution of score
 | ![Math STD](screenshots/image6.png) | ![Math Elite](screenshots/image7.png) |
 | *Note the narrow data spread—variance is structurally identical nationwide.* | *The massive spike in Kyiv visually confirms the "Monopoly" on specialized talent.* |
 
-| English Inequality Metrics |
+| English Standard Deviation | English Elite Concentration |
 | :---: |
-
 | ![English STD](screenshots/image5.png) | ![English Elite](screenshots/image8.png) |
 | *English shows a tighter overall variance compared to Math, indicating more consistent baseline outcomes.* | *Despite a tighter variance, the highest concentration of top performers remains geographically clustered.* |
