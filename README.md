@@ -8,7 +8,7 @@ The goal is to explore geospatial and temporal trends in educational outcomes ac
 
 The analysis uses anonymized, participant-level open data provided by the **Ukrainian Center for Educational Quality Assessment (UCEQA)**.
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 To run the Jupyter Notebook, ensure you have Python 3 installed along with the following dependencies:
 
